@@ -1,0 +1,104 @@
+﻿   body {
+    background-color: black;
+    
+}
+
+h1 {
+    background-image: url('potwe.jpg');
+}
+
+h1 {
+    border: groove;
+    background-image: url(icon.jpg);
+    border-radius: 15px 15px;
+    color: red;
+    font-family: 'Global Serif';
+    font-size: 45px;
+    max-width: 350px;
+}
+.block {
+    color:black;
+    background-color:aqua;
+    padding:4px;
+
+}
+
+.left {
+    float:left;
+}
+
+    nav {
+    margin: 0px;
+    font-size: 22px;
+    line-height: 40px;
+    max-width: 220px;
+}
+
+
+li a {
+    color: aqua;
+    display: block;
+    border-radius: 25px 25px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+
+li a,
+li a:visited {
+    border-top:2px solid;
+    padding:3px;
+  text-decoration:none;
+  
+} 
+li a:focus,
+li a:hover { 
+    background-color:azure;
+    color:indigo;
+}
+
+
+
+
+h2 {
+    color:yellowgreen;
+}
+
+h3 {
+    color: orangered;
+}
+
+h4 {
+    color:lemonchiffon;
+}
+
+p {
+    color:forestgreen ;
+    font-family: courier;
+    font-size: 120%;
+}
+
+
+
+table,tr,th,td {
+    border:solid;
+    font-family:Courier New, Courier, monospace;
+    border-collapse:collapse;
+    padding:revert;
+    color:aqua;
+}
+
+figcaption, address, dl, dt, dd, summary, button, textarea{
+    color: lightcoral;
+    font-size: 22px;
+    font-style: italic;
+}
+
+legend, li {
+    color:olivedrab;
+    
+}
+
+
